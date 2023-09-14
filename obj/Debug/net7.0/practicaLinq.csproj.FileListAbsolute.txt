@@ -1,0 +1,17 @@
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\practicaLinq.exe
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\practicaLinq.deps.json
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\practicaLinq.runtimeconfig.json
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\practicaLinq.dll
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\practicaLinq.pdb
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.AssemblyInfoInputs.cache
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.AssemblyInfo.cs
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.csproj.CoreCompileInputs.cache
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.dll
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\refint\practicaLinq.dll
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.pdb
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.genruntimeconfig.cache
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\ref\practicaLinq.dll
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.csproj.AssemblyReference.cache
+C:\Users\APM02-40\Documents\Csharp\practicaLinq\obj\Debug\net7.0\practicaLinq.csproj.CopyComplete
